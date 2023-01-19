@@ -5,6 +5,7 @@ from torchvision import datasets
 from torchvision.transforms import ToTensor
 import matplotlib.pyplot as plt
 
+# BADE
 
 # Define model
 class NeuralNetwork(nn.Module):
